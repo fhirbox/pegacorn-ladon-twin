@@ -17,6 +17,7 @@
     
     <modules>
         <module>../pegacorn-ladon-twin-executor</module>
+        <module>../pegacorn-ladon-twin-mindlesswork</module>
     </modules>
     
     <properties>
